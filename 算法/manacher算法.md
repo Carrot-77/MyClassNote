@@ -1,0 +1,2 @@
+# manacher算法
+

@@ -94,6 +94,8 @@ EPOLLONESHOT //只监听一次事件，当监听完这次事件之后，如果�
 
 #### 4.使用
 
+![img](https://images2018.cnblogs.com/blog/1117865/201806/1117865-20180627154041789-1218569040.png)
+
 ```c
 #include <sys/epoll.h>
 #define MAX_EVENTS 10
